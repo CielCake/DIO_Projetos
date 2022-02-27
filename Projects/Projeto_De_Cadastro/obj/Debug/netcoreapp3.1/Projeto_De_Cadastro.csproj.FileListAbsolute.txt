@@ -1,0 +1,13 @@
+C:\Users\lvini\source\repos\Projeto_De_Cadastro\bin\Debug\netcoreapp3.1\Projeto_De_Cadastro.exe
+C:\Users\lvini\source\repos\Projeto_De_Cadastro\bin\Debug\netcoreapp3.1\Projeto_De_Cadastro.deps.json
+C:\Users\lvini\source\repos\Projeto_De_Cadastro\bin\Debug\netcoreapp3.1\Projeto_De_Cadastro.runtimeconfig.json
+C:\Users\lvini\source\repos\Projeto_De_Cadastro\bin\Debug\netcoreapp3.1\Projeto_De_Cadastro.runtimeconfig.dev.json
+C:\Users\lvini\source\repos\Projeto_De_Cadastro\bin\Debug\netcoreapp3.1\Projeto_De_Cadastro.dll
+C:\Users\lvini\source\repos\Projeto_De_Cadastro\bin\Debug\netcoreapp3.1\Projeto_De_Cadastro.pdb
+C:\Users\lvini\source\repos\Projeto_De_Cadastro\obj\Debug\netcoreapp3.1\Projeto_De_Cadastro.csprojAssemblyReference.cache
+C:\Users\lvini\source\repos\Projeto_De_Cadastro\obj\Debug\netcoreapp3.1\Projeto_De_Cadastro.AssemblyInfoInputs.cache
+C:\Users\lvini\source\repos\Projeto_De_Cadastro\obj\Debug\netcoreapp3.1\Projeto_De_Cadastro.AssemblyInfo.cs
+C:\Users\lvini\source\repos\Projeto_De_Cadastro\obj\Debug\netcoreapp3.1\Projeto_De_Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\lvini\source\repos\Projeto_De_Cadastro\obj\Debug\netcoreapp3.1\Projeto_De_Cadastro.dll
+C:\Users\lvini\source\repos\Projeto_De_Cadastro\obj\Debug\netcoreapp3.1\Projeto_De_Cadastro.pdb
+C:\Users\lvini\source\repos\Projeto_De_Cadastro\obj\Debug\netcoreapp3.1\Projeto_De_Cadastro.genruntimeconfig.cache
